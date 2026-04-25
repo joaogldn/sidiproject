@@ -57,6 +57,7 @@ O projeto será aberto automaticamente em http://localhost:5173
 Para testar o sistema, utilize:
 
 Email: qualquer email válido (ex: usuario@exemplo.com)
+
 Senha: qualquer valor (mínimo 6 caracteres)
 
 ⚠️ Nota: Esta é uma versão de demonstração sem autenticação real implementada.
@@ -64,11 +65,9 @@ Senha: qualquer valor (mínimo 6 caracteres)
 ## 📱 Responsividade
 O sistema é totalmente responsivo e se adapta aos seguintes breakpoints:
 
-Desktop: > 800px
-
-Tablet: 480px - 800px
-
-Mobile: < 480px
+- Desktop: > 800px
+- Tablet: 480px - 800px
+- Mobile: < 480px
 
 ## 👨‍💻 Autor
 João Galdino - https://github.com/joaogldn
